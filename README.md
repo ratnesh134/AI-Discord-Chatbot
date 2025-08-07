@@ -4,6 +4,9 @@ Powered by LLaMA 3.3 (Groq) + MantisHub + SQLite
 ## 📌 Description
 This project implements an AI-powered Discord chatbot that assists users with washing machine-related queries. It intelligently decides whether to answer directly using LLaMA 3.3 (via Groq Cloud) or escalate the issue by creating a support ticket via MantisHub. Each user’s ticket is tracked using a lightweight SQLite database.
 
+## Wokring Demo Video
+[Demo](https://drive.google.com/file/d/1cY5Aw5FfxzaPZc6PBJUQTgdnFWLsIhyb/view?usp=sharing)
+
 ## 🧠 Features
 
 🤖 Answers user queries with Groq’s LLaMA 3.3 model
